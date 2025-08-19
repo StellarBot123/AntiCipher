@@ -1,0 +1,6 @@
+{
+  "watch_dir": "/home/FiveM/server/alpine/",
+  "tmp_dir": "/home/FiveM/server/alpine/tmp/",
+  "backup_dir": "/root/malware_samples/",
+  "webhook_url": "https://discord.com/api/webhooks/1407364410548158575/qTnM4g4Jjzh80aD-C89zg9oKyouOTtgVSWEoKJZHA0QosbOPHbRdDk9RvNOHdYTfKr0m"
+}
